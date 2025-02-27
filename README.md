@@ -1,5 +1,5 @@
 # CF-contest-creator
-Creates contes of codeforces problems with user-entered ratings.
+Creates contests of codeforces problems with user-entered ratings.
 
 ## Install
 Firstly, install [python](https://www.python.org/downloads/).
