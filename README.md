@@ -10,6 +10,8 @@ Use `pip install codeforcesApiPy`.
 
 If you are using Linux and getting an error (`error: externally-managed-environment`), then try `pip install codeforcesApiPy --break-system-packages` or you can create [venv](https://docs.python.org/3/library/venv.html).
 
+Then [install](https://github.com/rustam-cpp/CF-contest-creator/archive/refs/heads/main.zip) the programm.
+
 ## Run
 Use `python cf-contest-creator.py` to run the programm!
 
